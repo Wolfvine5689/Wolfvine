@@ -1,2 +1,1 @@
-# Wolfvine
-This will be my own clan generator!
+https://github.com/Wolfie/clangen.git
